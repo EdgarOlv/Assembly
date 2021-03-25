@@ -1,0 +1,12 @@
+O Controle para executar o motor de passo e o servo motor é o seguinte:
+
+Botão RA1 = Servo motor: 0º | Motor de Passo: Horario - Velocidade 1 
+
+Botão RA2 = Servo motor: 45º | Motor de Passo: Horario - Velocidade 2
+
+Botão RA3 = Servo motor: 90º | Motor de Passo: Parado
+
+Botão RA4 = Servo motor: 135º | Motor de Passo: Anti-Horario - Velocidade 1 
+
+Botão RA1 e RA2 = Servo motor: 180º | Motor de Passo: Anti-Horario - Velocidade 2 
+
